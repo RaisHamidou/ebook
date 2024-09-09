@@ -12,17 +12,17 @@ const About = () => {
       <div className="container-info-about">
         <h1>A propos de moi</h1>
         <p className="info-about">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
+          Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text ever
           since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen about Lorem Ipsum is simply dummy
+          scrambled it to make a type specimen about Lorem Ipsum is simply dummy
           text of the printing and typesetting industry. Lorem Ipsum has been
           the industry's standard dummy text ever since the 1500s, when an
           unknown printer took a galley of type and scrambled it to make a type
-          specimen about Lorem Ipsum is simply dummy text of the printing and
+          specimen about Lorem Ipsum is simply dummy text of the printing and
           typesetting industry. Lorem Ipsum has been the industry's standard
           dummy text ever since the 1500s, when an unknown printer took a galley
-          of type and scrambled it to make a type specimen about Lorem Ipsum is
+          of type and scrambled it to make a type specimen about Lorem Ipsum is
           simply dummy text of the printing and typesetting industry. Lorem
           Ipsum has been the industry's standard dummy text ever since the
           1500s, when an unknown printer took a galley of type and scrambled it
